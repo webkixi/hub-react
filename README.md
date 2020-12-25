@@ -24,7 +24,7 @@ cd workspacename
 
 ### 远程安装本项目  
 
-安装`hub-vue2`项目
+安装`hub-react`项目
 
 ```bash
 aotoo install https://github.com/webkixi/hub-react.git
