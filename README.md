@@ -1,4 +1,4 @@
-# vue2空项目  
+# react空项目  
 
 这是是`aotoo-hub`的子项目，需要在aotoo-hub脚手架的环境下运行。本项目是一个react的远程空项目，用于演示或快速搭建react的本地开发环境，仅包含react及react-router的基础代码及简单演示  
 
